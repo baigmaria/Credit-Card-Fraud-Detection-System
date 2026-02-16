@@ -162,4 +162,5 @@ else:
                 st.session_state.captcha = str(random.randint(1000, 9999))
 
 st.divider()
+
 st.caption("© 2026 SecurePay Technologies | Neural Risk Mitigation v2.4")
